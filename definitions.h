@@ -10,8 +10,6 @@ enum Direction {
     LEFT, RIGHT, UP, DOWN, IDLE
 };
 
-#define rows 50
-#define cols 50
 #define WINDOW_WIDTH 800
 #define WINDOW_HEIGHT 600
 #define chunck_size 10
